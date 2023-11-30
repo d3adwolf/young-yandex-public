@@ -1,0 +1,10 @@
+student_email: f3.d3ad.wolf@yandex.ru
+postgres_cluster:
+  hosts:
+  - address: 127.0.0.1
+    port: 5432
+  user: postgres
+  password: postgres
+  db_name: postgres
+  ssl_mode: disable
+  use_closest_node: false
