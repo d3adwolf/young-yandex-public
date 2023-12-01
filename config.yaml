@@ -4,7 +4,7 @@ postgres_cluster:
   - address: 192.168.0.66
     port: 5432
   - address: 192.168.0.67
-    port: 5432
+    port: 5434
   user: postgres
   password: postgres
   db_name: postgres
