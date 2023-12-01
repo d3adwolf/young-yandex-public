@@ -9,4 +9,4 @@ postgres_cluster:
   password: postgres
   db_name: postgres
   ssl_mode: disable
-  use_closest_node: false
+  use_closest_node: true
